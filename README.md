@@ -1,5 +1,7 @@
 # Django with Geo Location
 
+<img width="891" alt="Screenshot 2022-10-11 at 17 53 10" src="https://user-images.githubusercontent.com/43213479/195140985-380ab15a-b953-4414-8a13-c2340b4e6099.png">
+
 The study project from [Udemy](https://www.udemy.com/course/django-with-geolocation/).
 
 
